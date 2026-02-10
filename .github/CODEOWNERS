@@ -1,4 +1,7 @@
+# Immutable core
 /core/ @ElenaCherkasion
+
+# Platform & security
 /.github/ @ElenaCherkasion
 /docker-compose.yml @ElenaCherkasion
 /install.sh @ElenaCherkasion
